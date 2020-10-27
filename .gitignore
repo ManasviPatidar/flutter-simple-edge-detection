@@ -14,3 +14,6 @@ example/.idea
 .idea
 
 android/.cxx
+
+include/
+android/src/main/jniLibs/
